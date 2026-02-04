@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://c18hwofjd82xv"
-path="res://.godot/imported/tree4.blend-76acef89691901e644bde71e98ddcfed.scn"
+uid="uid://c3lvj55h2dp23"
+path="res://.godot/imported/skelletongudmediva.blend-65ee54250a12c57ed716d79f522e7519.scn"
 
 [deps]
 
-source_file="res://tree4.blend"
-dest_files=["res://.godot/imported/tree4.blend-76acef89691901e644bde71e98ddcfed.scn"]
+source_file="res://skelletongudmediva.blend"
+dest_files=["res://.godot/imported/skelletongudmediva.blend-65ee54250a12c57ed716d79f522e7519.scn"]
 
 [params]
 
